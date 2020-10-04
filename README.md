@@ -1,3 +1,2 @@
-ozrahosseini.github.io
-عذرا حسینی 
-رشته مهندسی کامپیوتر
+#ozrahosseini.github.io
+my rezume
