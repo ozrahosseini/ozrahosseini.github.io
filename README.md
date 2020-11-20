@@ -1,2 +1,0 @@
-# ozrahosseini.github.io
-Ozrahosseini
